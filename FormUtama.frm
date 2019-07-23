@@ -1,5 +1,8 @@
 Option Explicit
 
+'Author by Rizky Khapidsyah
+'Bantu saya menyederhanakan source code ini :)
+
 Dim myPath1 As String
 Dim myPath2 As String
 Dim myPath3 As String
