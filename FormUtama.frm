@@ -28,18 +28,18 @@ End Function
 
 'Atur bagian ini sesuai direktori anda, jika ingin menambahkan direktori, tambahkan variabel baru untuk mendefinisikan direktori baru
 Sub AturDirektori()
-    myPath1 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\"
-    myPath2 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\"
-    myPath3 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\#FOTO FORMAL\"
-    myPath4 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\baru lagI\"
-    myPath5 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\baru lagI\ijazah S1\"
-    myPath6 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\Cover Letter (Application Letter)\"
-    myPath7 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\Curriculum VItae & Resume\JADI\"
-    myPath8 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\DATA PENTING BARU MASUK\"
-    myPath9 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\ijazah S1\"
-    myPath10 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Keperluan Lamaran - Kerja\kartu keluarga\"
-    myPath11 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Ijazah Rina\"
-    myPath12 = "D:\Rizky Hafitsyah's Documents\#DATA_PENTING_LAINNYA\PRIBADI\Haldina Suaida\"
+    myPath1 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath2 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath3 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath4 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath5 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath6 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath7 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath8 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath9 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath10 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath11 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
+    myPath12 = "(Isi Direktori Anda Disini, 'contoh D:\New Folder\New Folder\XXX\')"
 End Sub
     
 Private Sub Form_Load()
