@@ -1,24 +1,3 @@
-VERSION 5.00
-Begin VB.Form FormUtama 
-   BorderStyle     =   1  'Fixed Single
-   Caption         =   "Main Form"
-   ClientHeight    =   150
-   ClientLeft      =   45
-   ClientTop       =   390
-   ClientWidth     =   960
-   Icon            =   "FormUtama.frx":0000
-   LinkTopic       =   "Form1"
-   MaxButton       =   0   'False
-   MinButton       =   0   'False
-   ScaleHeight     =   150
-   ScaleWidth      =   960
-   StartUpPosition =   3  'Windows Default
-End
-Attribute VB_Name = "FormUtama"
-Attribute VB_GlobalNameSpace = False
-Attribute VB_Creatable = False
-Attribute VB_PredeclaredId = True
-Attribute VB_Exposed = False
 Option Explicit
 
 Dim myPath1 As String
